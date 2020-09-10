@@ -1,2 +1,2 @@
 # Retirement_calc
-Calcs for retirement
+Calculator for retirement planning
